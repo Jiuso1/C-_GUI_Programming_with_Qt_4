@@ -1,0 +1,1 @@
+RESORUCES = spreadsheet.qrc

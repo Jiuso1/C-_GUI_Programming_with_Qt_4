@@ -1,0 +1,21 @@
+# ninja log v5
+5	2030	6969827286921171	QuitButton_autogen/timestamp	35eb2da3505b7c2b
+5	2030	6969827286921171	QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+5	2030	6969827286921171	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/timestamp	35eb2da3505b7c2b
+5	2030	6969827286921171	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+2040	6788	6969827339258594	CMakeFiles/QuitButton.dir/QuitButton_autogen/mocs_compilation.cpp.obj	4f5840f2bc90ac89
+2046	6948	6969827340858475	CMakeFiles/QuitButton.dir/mainwindow.cpp.obj	8ac64e90db17f57e
+2033	7022	6969827341608475	CMakeFiles/QuitButton.dir/main.cpp.obj	af5afc0aecce3979
+7023	7326	6969827344548475	QuitButton.exe	84000fe181b9c516
+13	570	6969829167786230	QuitButton_autogen/timestamp	35eb2da3505b7c2b
+13	570	6969829167786230	QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+13	570	6969829167786230	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/timestamp	35eb2da3505b7c2b
+13	570	6969829167786230	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+604	4131	6969829203406441	CMakeFiles/QuitButton.dir/mainwindow.cpp.obj	8ac64e90db17f57e
+13	539	6969829531599633	QuitButton_autogen/timestamp	35eb2da3505b7c2b
+13	539	6969829531599633	QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+13	539	6969829531599633	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/timestamp	35eb2da3505b7c2b
+13	539	6969829531599633	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QuitButton_autogen/mocs_compilation.cpp	35eb2da3505b7c2b
+563	4235	6969829568554523	CMakeFiles/QuitButton.dir/main.cpp.obj	af5afc0aecce3979
+570	4393	6969829570134586	CMakeFiles/QuitButton.dir/mainwindow.cpp.obj	8ac64e90db17f57e
+4394	4720	6969829573324515	QuitButton.exe	84000fe181b9c516

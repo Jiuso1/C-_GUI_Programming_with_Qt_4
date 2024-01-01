@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a46e913382415e12655c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuitButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QuitButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuitButton-Debug-18a0bbda245dbc28de7c.json",
+					"name" : "QuitButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuitButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuitButton_autogen-Debug-6fd5f623937db262ac95.json",
+					"name" : "QuitButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuitButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuitButton_autogen_timestamp_deps-Debug-69cbc9a8041f2261d4ba.json",
+					"name" : "QuitButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-QuitButton-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/QuitButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
