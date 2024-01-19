@@ -118,8 +118,14 @@ void MainWindow::createActions(){
     connect(selectColumnAction,SIGNAL(triggered()),spreadsheet,SLOT(selectCurrentColumn()));
 
     findAction = new QAction(tr("Find"),this);
+    findAction->setShortcut(QKeySequence::Find);
+    findAction->setStatusTip(tr("Open the find dialog"));
+    connect(findAction,SIGNAL(triggered()),this,SLOT(find()));
 
     goToCellAction = new QAction(tr("Go to cell"),this);
+    goToCellAction->setShortcut(tr("Ctrl+G"));
+    goToCellAction->setStatusTip(tr("Open the go to cell dialog"));
+    connect(goToCellAction,SIGNAL(triggered()),this,SLOT(goToCell()));
 
     calculateAction = new QAction(tr("Calculate"),this);
 
