@@ -3,7 +3,7 @@
 #include "gotocelldialog.h"
 #include "sortdialog.h"
 #include "spreadsheet.h"
-#include <QtGui>//Tebgi qye probar si al quitar QtGui compila igualmente.
+#include <QtGui>
 #include <QMenuBar>
 #include <QToolBar>
 #include <QStatusBar>
@@ -125,7 +125,11 @@ void MainWindow::createActions(){
 
     sortAction = new QAction(tr("Sort"),this);
 
-    autoRecalcAction = new QAction(tr("AutoRecalc"),this);
+    autoRecalcAction = new QAction(tr("AutoRecalc"));
+    autoRecalcAction->setCheckable(true);
+    autoRecalcAction->setChecked(spreadsheet->autoRecalculate());//Por implementar.
+    autoRecalcAction->setStatusTip(tr("Autorecalc or not the spreadsheet's cells"));
+    connect(autoRecalcAction,SIGNAL(toggled(bool)),spreadsheet,SLOT(setAutoRecalculate(bool)));
 }
 
 void MainWindow::createMenus(){
@@ -388,7 +392,7 @@ void MainWindow::about(){
                                                          "<p>Copyright &copy; 2008 Software Inc."
                                                          "<p>Spreadsheet is a small application that "
                                                          "demonstrates QAction, QMainWindow, QMenuBar, "
-                                                         "QStatusBar, QTableWidget, QToolBar, and many other"
+                                                         "QStatusBar, QTableWidget, QToolBar, and many other "
                                                          "Qt classes."));
 }
 

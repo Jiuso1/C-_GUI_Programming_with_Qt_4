@@ -256,6 +256,7 @@ void Spreadsheet::findPrevious(const QString &str,Qt::CaseSensitivity cs){
 }
 
 void Spreadsheet::recalculate(){
+    qDebug()<<"Ejecutando recalculate";
     for(int row = 0;row < RowCount;row++){
         for(int column = 0;column < ColumnCount;column++){
             if(cell(row,column)){
@@ -268,6 +269,7 @@ void Spreadsheet::recalculate(){
 
 void Spreadsheet::setAutoRecalculate(bool recalc){
     autoRecalc = recalc;
+    qDebug()<<"autoRecal vale: "<<autoRecalc;
     if(autoRecalc){
         recalculate();
     }
@@ -314,5 +316,3 @@ bool SpreadsheetCompare::operator()(const QStringList &row1,const QStringList &r
     }
     return false;
 }
-
-
