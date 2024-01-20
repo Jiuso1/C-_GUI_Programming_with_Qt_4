@@ -128,8 +128,12 @@ void MainWindow::createActions(){
     connect(goToCellAction,SIGNAL(triggered()),this,SLOT(goToCell()));
 
     calculateAction = new QAction(tr("Calculate"),this);
+    calculateAction->setStatusTip(tr("Recalculate the necessary cells"));
+    connect(calculateAction,SIGNAL(triggered()),spreadsheet,SLOT(recalculate()));
 
     sortAction = new QAction(tr("Sort"),this);
+    sortAction->setStatusTip(tr("Sort the cells"));
+    connect(sortAction,SIGNAL(triggered()),this,SLOT(sort()));
 
     autoRecalcAction = new QAction(tr("AutoRecalc"));
     autoRecalcAction->setCheckable(true);
