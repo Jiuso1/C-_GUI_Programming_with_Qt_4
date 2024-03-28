@@ -1,0 +1,9 @@
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/HexSpinBox.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/HexSpinBox_autogen_timestamp_deps.dir
+C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/HexSpinBox_autogen.dir

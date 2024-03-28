@@ -1,0 +1,17 @@
+# ninja log v5
+378	3956	7332867938964484	CMakeFiles/HexSpinBox.dir/hexspinbox.cpp.obj	42312062316c3275
+15	245	7332871038282336	HexSpinBox_autogen/timestamp	a9f6cc97361dfd17
+15	245	7332871038282336	HexSpinBox_autogen/mocs_compilation.cpp	a9f6cc97361dfd17
+1606	7627	7332869985503286	CMakeFiles/HexSpinBox.dir/HexSpinBox_autogen/mocs_compilation.cpp.obj	37186a9ff81603fa
+15	245	7332871038282336	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/HexSpinBox_autogen/timestamp	a9f6cc97361dfd17
+270	3120	7332871067040103	CMakeFiles/HexSpinBox.dir/main.cpp.obj	df889b17e6556a1c
+15	245	7332871038282336	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/HexSpinBox_autogen/mocs_compilation.cpp	a9f6cc97361dfd17
+3122	3515	7332871070880157	HexSpinBox.exe	fcc6a27f4ccc2505
+1624	7295	7332869982162653	CMakeFiles/HexSpinBox.dir/mainwindow.cpp.obj	56678de697b0382a
+16	320	7332872030125184	HexSpinBox_autogen/timestamp	a9f6cc97361dfd17
+16	320	7332872030125184	HexSpinBox_autogen/mocs_compilation.cpp	a9f6cc97361dfd17
+16	320	7332872030125184	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/HexSpinBox_autogen/timestamp	a9f6cc97361dfd17
+16	320	7332872030125184	C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/4_Creating_Custom_Widgets/build-HexSpinBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/HexSpinBox_autogen/mocs_compilation.cpp	a9f6cc97361dfd17
+330	4554	7332872074016769	CMakeFiles/HexSpinBox.dir/HexSpinBox_autogen/mocs_compilation.cpp.obj	37186a9ff81603fa
+322	4557	7332872074036714	CMakeFiles/HexSpinBox.dir/main.cpp.obj	df889b17e6556a1c
+4558	4873	7332872077116676	HexSpinBox.exe	a8778d8fb5815b6e
