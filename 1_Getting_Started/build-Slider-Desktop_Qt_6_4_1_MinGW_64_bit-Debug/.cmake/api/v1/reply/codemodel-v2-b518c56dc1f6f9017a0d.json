@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-082a6ef14ef18ee89403.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Slider",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Slider::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Slider-Debug-e9a76404c4368dabc21b.json",
+					"name" : "Slider",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Slider_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Slider_autogen-Debug-ad1208f79a452939f5d5.json",
+					"name" : "Slider_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Slider_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Slider_autogen_timestamp_deps-Debug-1ef01b5b4185f4a03cf6.json",
+					"name" : "Slider_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/build-Slider-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/jesus/Documents/C++/ProyectosQt/C++_GUI_Programming_with_Qt_4/1_Getting_Started/Slider"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

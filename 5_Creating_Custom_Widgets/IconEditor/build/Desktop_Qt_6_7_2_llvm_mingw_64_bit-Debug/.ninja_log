@@ -1,0 +1,9 @@
+# ninja log v6
+28	2594	7540238023526332	IconEditor_autogen/timestamp	67bfe2af695b7015
+2615	7915	7540238026680604	CMakeFiles/IconEditor.dir/IconEditor_autogen/mocs_compilation.cpp.obj	6e6df0a1d2f3ac33
+28	2594	7540238023526332	IconEditor_autogen/mocs_compilation.cpp	67bfe2af695b7015
+28	2594	7540238023526332	C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/5_Creating_Custom_Widgets/IconEditor/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/IconEditor_autogen/timestamp	67bfe2af695b7015
+28	2594	7540238023526332	C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/5_Creating_Custom_Widgets/IconEditor/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/IconEditor_autogen/mocs_compilation.cpp	67bfe2af695b7015
+2630	7786	7540238026836891	CMakeFiles/IconEditor.dir/mainwindow.cpp.obj	57789f2a976c56cf
+2623	7900	7540238026680604	CMakeFiles/IconEditor.dir/main.cpp.obj	e0f268b163680554
+7915	8132	7540238079688818	IconEditor.exe	2df4d8b730febc8

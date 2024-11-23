@@ -1,0 +1,120 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/HostX64/x64/cl.exe 
+      Build flags: -DQT_QML_DEBUG
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.42.34433 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.42.34433.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: C:\\Users\\jesus\\Documents\\c++\\proyectosQt\\C++_GUI_Programming_with_Qt_4\\3_Creating_Main_Windows\\Spreadsheet\\build\\Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-pf3u03"
+      binary: "C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-pf3u03"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-pf3u03'
+        
+        Run Build Command(s): C:/PROGRA~1/MIB055~1/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_8f17c
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_8f17c.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_8f17c.dir\\ /FS -c C:\\Qt\\Tools\\CMake_64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp
+        \x1b[31mFAILED: \x1b[0mCMakeFiles/cmTC_8f17c.dir/CMakeCXXCompilerABI.cpp.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_8f17c.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_8f17c.dir\\ /FS -c C:\\Qt\\Tools\\CMake_64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp
+        C:\\Qt\\Tools\\CMake_64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp : fatal error C1083: No se puede abrir el archivo generado por el compilador: '': Invalid argument
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/HostX64/x64/cl.exe"
+    directories:
+      source: "C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-xpbayk"
+      binary: "C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-xpbayk"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/jesus/Documents/c++/proyectosQt/C++_GUI_Programming_with_Qt_4/3_Creating_Main_Windows/Spreadsheet/build/Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/CMakeScratch/TryCompile-xpbayk'
+        
+        Run Build Command(s): C:/PROGRA~1/MIB055~1/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe -v cmTC_08750
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\HostX64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_08750.dir\\testCXXCompiler.cxx.obj /FdCMakeFiles\\cmTC_08750.dir\\ /FS -c C:\\Users\\jesus\\Documents\\c++\\proyectosQt\\C++_GUI_Programming_with_Qt_4\\3_Creating_Main_Windows\\Spreadsheet\\build\\Replacement_for_Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xpbayk\\testCXXCompiler.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_08750.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_08750.dir\\testCXXCompiler.cxx.obj  /out:cmTC_08750.exe /implib:cmTC_08750.lib /pdb:cmTC_08750.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        \x1b[31mFAILED: \x1b[0mcmTC_08750.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_08750.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_08750.dir\\testCXXCompiler.cxx.obj  /out:cmTC_08750.exe /implib:cmTC_08750.lib /pdb:cmTC_08750.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        RC Pass 1: command "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_08750.dir/manifest.res CMakeFiles\\cmTC_08750.dir/manifest.rc" failed (exit code 2) with the following output:
+        Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384\x0d
+        Copyright (C) Microsoft Corporation.  All rights reserved.\x0d
+        
+        
+        CMakeFiles\\cmTC_08750.dir/manifest.rc(3) : error RC2136 : missing '=' in EXSTYLE=<flags>\x0d\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+...
